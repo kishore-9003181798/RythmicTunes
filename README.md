@@ -28,6 +28,8 @@ Make sure you have the following installed:
 
 🖼 Screenshots
 
+![Screenshot_6-4-2025_203433_localhost](https://github.com/user-attachments/assets/807cc40e-aba5-40ec-96cb-a5c007d93239)
+
 
 ### Installation
 
